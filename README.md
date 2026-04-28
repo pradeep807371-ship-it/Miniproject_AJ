@@ -9,3 +9,6 @@ https://github.com/pradeep807371-ship-it/Miniproject_AJ/blob/master/ViewProducts
 
 updateProduct o/p link:
 https://github.com/pradeep807371-ship-it/Miniproject_AJ/blob/master/updateProduct.jpg
+
+deleteProduct o/p link:
+https://github.com/pradeep807371-ship-it/Miniproject_AJ/blob/master/deleteProduct.jpg
